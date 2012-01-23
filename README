@@ -1,0 +1,9 @@
+tinyCRT
+=================================================
+This project is a summary of what i have learned from the book (Chinese name "程序员的自我修炼"), that is really a great book on linker & loader and C runtime library. I will gradually enhance it and add more functinalities in the future and make it an usable and compacted C runtime libary. 
+
+build
+cd src/ and run make to build the code
+
+run 
+cd src/ and run ./test
